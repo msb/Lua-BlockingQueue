@@ -1,11 +1,4 @@
+## Lua BlockingQueue
 
-[Lua BlockingQueue]
-
-[Chineese]
-
-先执行take, 在执行put, 参见BlockingQueueSamples.lua
-
-
-[English]
-
-must call take first, then call put. More details see BlockingQueueSamples.lua
+A simple implementation of a blocking queue.
+For more details see [BlockingQueueSamples.lua](https://github.com/yedawei007/Lua-BlockingQueue/blob/master/BlockingQueueSamples.lua).
